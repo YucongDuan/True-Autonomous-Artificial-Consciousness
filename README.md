@@ -1,5 +1,7 @@
 # DIKWP 6.3A True Autonomous Artificial Consciousness - Delivery
 
+Created by Yucong Duan (段玉聪).
+
 ## Core result
 
 The system rejects direct external P after genesis and autonomously generates questions, competing K worlds, consequence-derived W/P, active discriminating observations, bounded rule self-modification, irreducible collective K and checkpoint continuity.
